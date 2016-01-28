@@ -1,3 +1,5 @@
+## RJPADILL
+## https://github.com/rjpadill/Repositorio.git
 ## FUNCTION CACHE MATRIX
 # four functions encapsulated in a list
 	# 1. set the matrix
